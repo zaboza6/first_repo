@@ -17,5 +17,6 @@ int main()
 	char *p = "Hello";
 	printf("%d\n", ft_strlen(p));
 	printf("+++++++++++++++\n");
+	//com
 	return (0);
 }
