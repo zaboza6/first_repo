@@ -14,5 +14,7 @@ int main()
 	char str[] = "Hello";
 	printf("%d\n", ft_strlen(str));
 	printf("collaboration");
+	char *p = "Hello";
+	printf("%d\n", ft_strlen(p));
 	return (0);
 }
