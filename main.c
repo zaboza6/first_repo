@@ -19,5 +19,7 @@ int main()
 	printf("+++++++++++++++\n");
 	printf("+++++++++++++++\n");
 	//com
+	//__has_attribute
+	//__has_attribute
 	return (0);
 }
