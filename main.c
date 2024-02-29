@@ -16,5 +16,6 @@ int main()
 	printf("collaboration");
 	char *p = "Hello";
 	printf("%d\n", ft_strlen(p));
+	printf("+++++++++++++++\n");
 	return (0);
 }
