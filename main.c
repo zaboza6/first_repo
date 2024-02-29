@@ -13,5 +13,6 @@ int main()
 {
 	char str[] = "Hello";
 	printf("%d\n", ft_strlen(str));
+	printf("collaboration");
 	return (0);
 }
